@@ -1,0 +1,32 @@
+header:
+  getting_started: Getting Started
+  technologies: Technologies
+  examples: Examples
+  about: About
+  blog: Blog
+pages:
+  examples:
+    title: Examples
+    description: We have prepared for you some examples of working with Pinia
+    counter:
+      title: Counter
+      button:
+        increment: Increment
+        decrement: Decrement
+        reset: Reset
+    todo:
+      title: Todo List
+      placeholder: New Todo
+      button:
+        add: Add
+        save: Save
+        clear: Clear
+        load: Load
+  technologies:
+    title: Technologies
+    use: We use
+    components: Complete components
+  doc:
+    title: Example use NuxtContent
+    article:
+      button: Learn more

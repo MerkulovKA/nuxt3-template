@@ -1,0 +1,34 @@
+
+
+header:
+  getting_started: Начало работы
+  technologies: Технологии
+  examples: Примеры
+  about: О нас
+  blog: Блог
+pages:
+  examples:
+    title: Примеры
+    description: Мы подготовили для вас несколько примеров работы с Pinia
+    counter:
+      title: Счетчик
+      button:
+        increment: Увеличить
+        decrement: Уменьшить
+        reset: Сбросить
+    todo:
+      title: Список задач
+      placeholder: Новая задача
+      button:
+        add: Добавить
+        save: Сохранить
+        clear: Очистить
+        load: Загрузить
+  technologies:
+    title: Технологии
+    use: Мы используем
+    components: Готовые компоненты
+  doc:
+    title: Пример использования NuxtContent
+    article:
+      button: Читать дальше
